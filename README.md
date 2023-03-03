@@ -25,4 +25,6 @@ Descriptive analysis was performed on the data as a whole and then on each subse
 ![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%202.1.png)
 
 
-Examining data on each manufacturing lot deparately, there was quite the disparity between the three lots, specifically lot three. Results show that while lots one and two fall significantly below the design specifications for the MechaCar suspension coils (.98 and 7.47, respectively), lot three's variance of the suspension coils is almost double that (var = 170.29). This tells us that manufacturing lot number three does not meet this desicn specification.
+Examining data on each manufacturing lot deparately, there was quite the disparity between the three lots, specifically lot three. Results show that while lots one and two fall significantly below the design specifications for the MechaCar suspension coils (.98 and 7.47, respectively), lot three's variance of the suspension coils is almost double that (var = 170.29). This tells us that manufacturing lot number three does not meet this design specification (below).
+![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%202.2.png)
+
