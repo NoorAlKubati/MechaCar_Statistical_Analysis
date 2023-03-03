@@ -28,3 +28,15 @@ Descriptive analysis was performed on the data as a whole and then on each subse
 Examining data on each manufacturing lot deparately, there was quite the disparity between the three lots, specifically lot three. Results show that while lots one and two fall significantly below the design specifications for the MechaCar suspension coils (.98 and 7.47, respectively), lot three's variance of the suspension coils is almost double that (var = 170.29). This tells us that manufacturing lot number three does not meet this design specification (below).
 ![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%202.2.png)
 
+
+## T-Tests on Suspension Coils
+
+This part of the project is set to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch. A one-sample t-test was conducted to see if that is the case (Below).
+![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%203.1.png)
+
+Results show that the PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch (p > .05). However, further analysis was conducted to see if the PSI in one of the manufacturing lots is statistically different from the population mean of 1,500. Three t-tests were conducted on the three subsets of the data for each manufacturing lot. In summary, the only manufacturing lot whole PSI was statistically different from the population mean of 1,500 was lot three (results below).
+![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%203.2.png)
+![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%203.3.png)
+![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%203.4.png)
+
+
