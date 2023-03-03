@@ -39,4 +39,7 @@ Results show that the PSI across all manufacturing lots is not statistically dif
 ![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%203.3.png)
 ![](https://github.com/NoorAlKubati/MechaCar_Statistical_Analysis/blob/main/Part%203.4.png)
 
+## Study Design: MechaCar vs Competition
 
+In this proposed study design, we will compare MechaCar vehicles versus other vehicles from the competition. In particular, we would like to narrow down the variables that we will collect and study. Primarily, we need to study what impacts the customers intention to purchasing the vehicle. Six variables come to mind: price, level of luxury, fuel consumption, safety rating, reliability, and horse power. The price variable is apparently a continuous variable. Level of luxury, fuel consumption, safety rating, reliability could be collected from customers based on a likert-type scale from 1 through 10. Finally, the horse power of each car will be entered into the data. The purchase intention of the customer will be a likert-type variable from 1 to 10.
+The null hypothesis is that there are no preference among customers between MechaCar vehicles and the compitition based on these variables. The alternative hypothesis is that there is a preference among customers between MechaCar vehicles and the compitition based on these variables. To test this hypothesis, a linear regression model will be utilized to see which manufacturer is better preferred. Data collected randomly from potential car buyers will be collected online in a self-reported survey.
